@@ -12,18 +12,6 @@ A deep learning–based real-time face mask detector that uses a webcam feed to 
 
 ---
 
-## 🧰 Tech Stack
-
-* **Python 3.x**
-* **TensorFlow / Keras** – Model building and inference
-* **OpenCV** – Webcam access + Haar Cascade face detection
-* **Google Colab** – GPU-accelerated training
-* **NumPy** – Numerical operations
-* **Matplotlib** – Plotting results during training
-* **Kaggle API** – Dataset download
-
----
-
 ## 📁 Project Structure
 
 ```
