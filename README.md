@@ -1,6 +1,6 @@
 # Real-Time Face Mask Detection
 
-A deep learning–based real-time face mask detector that uses a webcam feed to classify whether a person is **wearing a mask** or **not wearing a mask**. The project is built using **TensorFlow/Keras** and **OpenCV**, making it fast, lightweight, and easy to run on laptops (including M-series MacBooks).
+A deep learning–based real-time face mask detector that uses a webcam feed to classify whether a person is **wearing a mask** or **not wearing a mask**. The project is built using **TensorFlow/Keras** and **OpenCV**, making it fast and lightweight.
 
 ---
 
